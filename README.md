@@ -38,7 +38,7 @@ Color | Palette | Hex | Usage
 ## Installation Instructions
 - Download `Cognac.itermcolors`
 - Double click to install Cognac into the Terminal.
-- Go to **Preferences > Profiles > Colors **
+- Go to **Preferences > Profiles > Colors**
 - On the dropdown meny, select Cognac.
 
 ## Credits
