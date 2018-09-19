@@ -1,4 +1,4 @@
-# Cognac 🥃 for Terminal
+# Cognac 🥃 for iTerm2
 An Alluring, Dark, and Muted Theme For iTerm 2.
 
 ## About
